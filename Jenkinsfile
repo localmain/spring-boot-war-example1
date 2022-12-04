@@ -38,8 +38,8 @@ pipeline {
              
         }
         failure{
-            echo "========pipeline execution failed========"
-             
+            echo "========pipeline execution failed========"  
         }
-    }
-}
+     }
+  }
+}     
